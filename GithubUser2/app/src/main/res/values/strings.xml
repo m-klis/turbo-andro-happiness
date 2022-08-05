@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="uji_nama">Fulan bin fulan</string>
+    <string name="uji_user">\@fulan007</string>
+    <string name="uji_loca">Indonesia</string>
+    <string name="find">cari</string>
+    <string name="insert_user">Masukan user</string>
+    <string name="flwr">follower</string>
+    <string name="flng">following</string>
+    <string name="repo">repository</string>
+    <string name="comp">company,</string>
+    <string name="loca">location.</string>
+    <string name="dummy_value">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flng_frag">Following Fragment</string>
+    <string name="flwr_frag">Follower Fragment</string>
+    <string name="tab_flng">Following</string>
+    <string name="tab_flwr">Follower</string>
+
+</resources>
